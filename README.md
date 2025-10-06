@@ -16,7 +16,7 @@ Currently upskilling myself in **Terraform, system integrations, and modern data
 - 🏭 **[sql-data-warehouse-project](https://github.com/imaashishlk/sql-data-warehouse-project)**  
   Building a modern data warehouse with SQL Server, ETL processes, data modeling and analysis.
   
-- 📊 **[dbt_fabric_project](https://github.com/imaashishkarki/dbt_fabric_project)**  
+- 📊 **[dbt_fabric_project](https://github.com/imaashishlk/dbt_fabric_project)**  
   End-to-end data pipeline using **Microsoft Fabric Warehouse**, **dbt**, and **Power BI** (Star Schema).
 ---
 
